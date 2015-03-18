@@ -1,0 +1,25 @@
+body {
+	background-image: url("../images/background.jpg"), url("../images/stripes.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: cover;
+	font-size: 18px;
+	font-family: arial;
+	color: #FFFFFF;
+	height:;
+	padding: ;
+	margin: 300px 100px;
+	font-weight: normal;
+	line-height: normal;
+}
+
+hr {
+	border-color: #FA8072;
+	width: 50px;
+	margin: 25px 0px;
+}
+
+a {
+	margin-top: 25px;
+	background-position: left;
+}
