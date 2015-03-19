@@ -1,13 +1,12 @@
 body {
-	background-image: url("../images/background.jpg"), url("../images/stripes.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: cover;
+	background: url(../images/stripes.png), url(../images/background.jpg);
+	background-repeat: repeat-x, no-repeat;
+	background-size: auto, cover;
+	/*background-attachment: fixed;*/
+	/*background-position:;*/
 	font-size: 18px;
 	font-family: arial;
 	color: #FFFFFF;
-	height:;
-	padding: ;
 	margin: 300px 100px;
 	font-weight: normal;
 	line-height: normal;
